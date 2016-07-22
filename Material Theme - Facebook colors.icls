@@ -3,7 +3,7 @@
     <property name="created">2016-07-22T10:59:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-07-22T14:43:07</property>
+    <property name="modified">2016-07-22T15:10:31</property>
     <property name="originalScheme">zenWay copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -549,7 +549,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a7dbd8" />
+        <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -702,6 +702,11 @@
     <option name="GHERKIN_TAG">
       <value>
         <option name="FOREGROUND" value="f6624a" />
+      </value>
+    </option>
+    <option name="GOTO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="d5d5ca" />
       </value>
     </option>
     <option name="GRADLE_CHANGE_CONFLICT">
@@ -1330,7 +1335,7 @@
     </option>
     <option name="PHP_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="ffe899" />
+        <option name="FOREGROUND" value="d5d5ca" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
@@ -1346,7 +1351,7 @@
     </option>
     <option name="PHP_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="a7b3c2" />
+        <option name="FOREGROUND" value="d5d5ca" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -1371,7 +1376,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="8be9ee" />
+        <option name="FOREGROUND" value="d5d5ca" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -1391,7 +1396,7 @@
     </option>
     <option name="PHP_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a7dbd8" />
+        <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
@@ -1426,7 +1431,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="ffe899" />
+        <option name="FOREGROUND" value="d5d5ca" />
       </value>
     </option>
     <option name="PHP_TAG">
@@ -1437,7 +1442,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="8dc4f0" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
