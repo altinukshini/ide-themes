@@ -1,3 +1,7 @@
+## Font
+
+Monaco font: https://github.com/cstrap/monaco-font
+
 ## SublimeText
 
 SublimeText theme: Material (SL).tmTheme
